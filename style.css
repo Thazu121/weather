@@ -1,0 +1,9 @@
+.weather-card{
+    width: 100%;
+    max-width:450px ;
+    background: linear-gradient(180deg,#1a1a2a 0%,#16213e 50%,#0f3460 100%);
+}
+.weather-icon{
+    font-size: 120px;
+    opacity: 0.9;
+}
